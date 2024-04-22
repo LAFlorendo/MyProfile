@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @InfinityLLL
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python and Java
+- 👋 Hi, I’m @LA Florendo
 - 📫 You can reach me through email at florendolouie@gmail.com
 
 <!---
