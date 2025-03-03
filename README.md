@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LA Florendo
+- 👋 Hi, I’m Louie
 - 📫 You can reach me through email at florendolouie@gmail.com
 
 <!---
